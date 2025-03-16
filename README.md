@@ -1,26 +1,39 @@
 # Ad-Hoc-Analysis-in-Data-Analytics
 
-Ad hoc analysis is a powerful approach in data analytics, enabling on-the-spot problem-solving and quick decision-making. Unlike predefined reports, it provides real-time insights to address specific business questions as they arise.
+Ad hoc analysis is a powerful approach in data analytics, enabling on-the-spot problem-solving and quick decision-making. Unlike predefined reports, it provides real-time insights to address specific business questions as they arise.  
 
-🔍 Why is Ad Hoc Analysis Important?
+## 📌 Why is Ad Hoc Analysis Important?  
 
-✔ Uncovers Hidden Trends – Identifies patterns that drive business strategy.
-✔ Enables Quick Decisions – Supports agile decision-making with real-time data.
-✔ Enhances Business Growth – Helps solve unique challenges with data-driven insights.
+- **Uncovers Hidden Trends** – Identifies patterns that drive business strategy.  
+- **Enables Quick Decisions** – Supports agile decision-making with real-time data.  
+- **Enhances Business Growth** – Helps solve unique challenges with data-driven insights.  
 
-During my Atliq Virtual Internship, this task provided hands-on experience in working with real-world data, analyzing trends, and making impactful decisions. Excited to apply these skills in my data analytics journey! 🚀
+## 🔍 Project Overview  
 
----
+This repository contains SQL queries that require debugging. These queries were initially created by interns but contain errors that need to be identified and fixed. The goal is to ensure that all queries execute correctly and return accurate results.  
 
-Sreevarshan Sivagnanam!
+## 📂 Files Included  
 
-I’m struggling with something and need your help. We have some SQL queries created by our previous interns, and it seems they were not debugged. Can you debug them?
-I've provided you with the necessary files to get started. Please download the 'gdb080.sql' file and load it into your MySQL Workbench. You can then open the 'sql_queries.docx' file to view the list of queries that you need to debug. Each query has some errors that need to be identified and fixed. Please ensure that you test each query thoroughly after fixing the errors.
+- `gdb080.sql` – The main SQL script file that needs to be loaded into MySQL Workbench.  
+- `sql_queries.docx` – A document listing the queries that require debugging, along with descriptions of expected outcomes.  
 
-This task is urgent – please complete it as soon as possible.
+## 🛠 Debugging Process  
 
-Best regards,
+1. **Load the SQL File**  
+   - Open MySQL Workbench and load the `gdb080.sql` file.  
+2. **Review the Queries**  
+   - Refer to `sql_queries.docx` to understand each query and its intended purpose.  
+3. **Identify Errors**  
+   - Check for syntax errors, incorrect table joins, missing conditions, or logical mistakes.  
+4. **Fix and Test**  
+   - Modify the queries as needed and test them to ensure they return the correct results.  
 
-Hem
-Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
-Website: www.atliq.com
+## 🚀 Contribution  
+
+If you find additional issues or have suggestions for optimization, feel free to submit a pull request!  
+
+## 📞 Contact  
+
+For any questions, reach out to:  
+- **Hem** | Head of Data Analytics | AtliQ Technologies Pvt. Ltd.  
+- Website: [www.atliq.com](http://www.atliq.com)  
