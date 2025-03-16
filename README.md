@@ -12,11 +12,6 @@ Ad hoc analysis is a powerful approach in data analytics, enabling on-the-spot p
 
 This repository contains SQL queries that require debugging. These queries were initially created by interns but contain errors that need to be identified and fixed. The goal is to ensure that all queries execute correctly and return accurate results.  
 
-## 📂 Files Included  
-
-- `gdb080.sql` – The main SQL script file that needs to be loaded into MySQL Workbench.  
-- `sql_queries.docx` – A document listing the queries that require debugging, along with descriptions of expected outcomes.  
-
 ## 🛠 Debugging Process  
 
 1. **Load the SQL File**  
