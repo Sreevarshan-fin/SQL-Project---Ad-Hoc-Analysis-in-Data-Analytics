@@ -1,4 +1,4 @@
-# Ad-Hoc-Analysis-in-Data-Analytics
+# Ad-Hoc-Analysis
 
 Ad hoc analysis is a powerful approach in data analytics, enabling on-the-spot problem-solving and quick decision-making. Unlike predefined reports, it provides real-time insights to address specific business questions as they arise.  
 
